@@ -1,0 +1,16 @@
+{
+  "name": "task-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "allure-commandline": "^2.20.0",
+    "cypress": "^10.7.0",
+    "mocha-allure-reporter": "^1.4.0"
+  }
+}
